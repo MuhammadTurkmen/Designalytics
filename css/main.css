@@ -154,4 +154,9 @@ aside ul li a {
 .subtitle {
   text-transform: uppercase;
   font-size: 1.6rem;
+}
+
+/* Extra Stats */
+.extra-stats {
+  padding: 3.8em 0;
 }/*# sourceMappingURL=main.css.map */
