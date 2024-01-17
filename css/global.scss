@@ -17,3 +17,12 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+li, p, a {
+    font-size: 1.6;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
