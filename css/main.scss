@@ -48,12 +48,9 @@ aside {
     padding: 3em;
     text-align: right;
     transition: transform .6s;
-    transform: translateX(0);
+    transform: translateX(100%);
 
-    a {
-        color: white;
-        font-size: 2.6rem;
-    }
+  
 
     img {
         background-color: white;
@@ -68,6 +65,11 @@ aside {
 
         li {
             margin-bottom: 1.5em;
+
+            a {
+                color: white;
+                font-size: 2.6rem;
+            }
         }
     }
 }
