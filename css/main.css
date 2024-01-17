@@ -75,4 +75,10 @@ header svg {
   display: flex;
   align-items: center;
   gap: 2em;
+}
+
+header.primary, .user {
+  display: flex;
+  align-items: center;
+  gap: 1em;
 }/*# sourceMappingURL=main.css.map */
