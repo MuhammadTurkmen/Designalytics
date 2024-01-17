@@ -188,6 +188,7 @@ h1 {
   margin-top: 2em;
   grid-template-columns: repeat(2, 1fr);
   gap: 2em;
+  color: white;
 }
 .customers ul li {
   display: flex;
@@ -199,6 +200,7 @@ h1 {
 }
 .customers ul .user-left {
   display: flex;
+  align-items: center;
 }
 .customers ul .user-left img {
   width: 48px;
