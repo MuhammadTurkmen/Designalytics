@@ -127,4 +127,6 @@ aside ul li a {
 .sales, .extra-stats {
   padding: 3.8em;
   color: white;
+  border-radius: 1em;
+  margin-top: 2em;
 }/*# sourceMappingURL=main.css.map */
