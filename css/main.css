@@ -46,4 +46,20 @@ svg {
 
 .hide-mobil {
   display: none;
+}
+
+@media only screen and (min-width: 620px) {
+  .hide-tablet {
+    display: none;
+  }
+}
+/* Header */
+header.primary {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user img {
+  width: 30px;
+  height: 30px;
 }/*# sourceMappingURL=main.css.map */
