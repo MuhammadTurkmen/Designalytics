@@ -86,4 +86,9 @@ aside {
 
 .sales {
     background: var(--primary-color);
+    position: relative;
+
+    h2 {
+        font-size: 6.4rem;
+    }
 }

@@ -133,4 +133,8 @@ aside ul li a {
 
 .sales {
   background: var(--primary-color);
+  position: relative;
+}
+.sales h2 {
+  font-size: 6.4rem;
 }/*# sourceMappingURL=main.css.map */
