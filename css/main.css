@@ -180,4 +180,8 @@ h1 {
   background: var(--secondary-color);
   border-radius: 1em;
   padding: 2.8em;
+}
+
+customers .customers ul {
+  display: grid;
 }/*# sourceMappingURL=main.css.map */
