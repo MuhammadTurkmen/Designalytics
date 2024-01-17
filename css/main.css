@@ -197,6 +197,8 @@ h1 {
 .customers ul li .cta-btn img {
   width: 50px;
   height: 50px;
+  padding: 1em;
+  background: var(--secondary-color);
 }
 .customers ul .user-left {
   display: flex;
@@ -209,4 +211,7 @@ h1 {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
+}
+.customers ul .user-info {
+  display: block;
 }/*# sourceMappingURL=main.css.map */
