@@ -144,6 +144,12 @@ aside ul li a {
   align-items: baseline;
   gap: 0.5em;
 }
+.sales img {
+  position: absolute;
+  bottom: -45px;
+  right: -5px;
+  width: 300px;
+}
 
 .subtitle {
   text-transform: uppercase;

@@ -98,6 +98,12 @@ aside {
         align-items: baseline;
         gap: .5em;
     }
+    img {
+        position: absolute;
+        bottom: -45px;
+        right: -5px;
+        width: 300px;
+    }
 }
 
 .subtitle {
