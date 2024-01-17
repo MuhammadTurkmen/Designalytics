@@ -73,4 +73,6 @@ header svg {
 
 .header-right {
   display: flex;
+  align-items: center;
+  gap: 2em;
 }/*# sourceMappingURL=main.css.map */
