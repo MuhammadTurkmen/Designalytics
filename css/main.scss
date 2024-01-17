@@ -34,3 +34,10 @@ header.primary, .user {
 a.logo img {
     width: 170px;
 }
+
+/* Mobile Nav */
+
+aside {
+    position: fixed;
+    z-index: 1;
+}
