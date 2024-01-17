@@ -109,4 +109,6 @@ aside img {
   background-color: white;
   width: 30px;
   height: 30px;
+  border-radius: 0.3em;
+  cursor: pointer;
 }/*# sourceMappingURL=main.css.map */
