@@ -117,6 +117,7 @@ aside {
     padding: 3.8em 0;
      
     ul {
-        
+        display: flex;
+        justify-content: space-between;
     }
 }

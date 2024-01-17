@@ -159,4 +159,8 @@ aside ul li a {
 /* Extra Stats */
 .extra-stats {
   padding: 3.8em 0;
+}
+.extra-stats ul {
+  display: flex;
+  justify-content: space-between;
 }/*# sourceMappingURL=main.css.map */
