@@ -201,6 +201,7 @@ h1 {
 .customers ul .user-left {
   display: flex;
   align-items: center;
+  gap: 1em;
 }
 .customers ul .user-left img {
   width: 48px;
