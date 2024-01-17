@@ -191,4 +191,14 @@ customers .customers ul {
 customers .customers ul li {
   display: flex;
   justify-content: space-between;
+}
+customers .customers ul li .cta-btn img {
+  width: 50px;
+  height: 50px;
+}
+customers .customers ul .user-left img {
+  width: 48px;
+  height: 48px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=main.css.map */
