@@ -44,7 +44,7 @@ svg {
   width: 100%;
 }
 
-.hide-mobil {
+.hide-mobile {
   display: none;
 }
 
@@ -57,6 +57,10 @@ svg {
 header.primary {
   display: flex;
   justify-content: space-between;
+}
+
+header svg {
+  width: 42px;
 }
 
 .user img {
