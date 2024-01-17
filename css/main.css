@@ -143,4 +143,5 @@ aside ul li a {
   display: flex;
   align-items: baseline;
   text-transform: uppercase;
+  gap: 0.5em;
 }/*# sourceMappingURL=main.css.map */
