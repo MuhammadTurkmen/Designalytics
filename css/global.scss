@@ -40,3 +40,11 @@ a {
  .hide-mobil {
     display: none;
  }
+
+ @media only screen and (min-width: 620px) {
+
+    .hide-tablet {
+        display: none;
+    } 
+    
+ }
