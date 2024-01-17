@@ -45,4 +45,8 @@ aside {
     height: 100vh;
     background-color: var(--primary-color);
     width: 40%;
+    padding: 3em;
+    text-align: right;
+    transition: transform .6s;
+    transform: translateX(0);
 }
