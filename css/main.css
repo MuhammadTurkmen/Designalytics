@@ -185,4 +185,10 @@ h1 {
 customers .customers ul {
   display: grid;
   margin-top: 2em;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2em;
+}
+customers .customers ul li {
+  display: flex;
+  justify-content: space-between;
 }/*# sourceMappingURL=main.css.map */

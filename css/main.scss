@@ -147,4 +147,11 @@ h1 {
 .customers ul {
     display: grid;
     margin-top: 2em;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2em;
+
+    li {
+        display: flex;
+        justify-content: space-between;
+    }
 }
