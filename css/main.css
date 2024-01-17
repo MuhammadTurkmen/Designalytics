@@ -69,4 +69,8 @@ header svg {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
+}
+
+.header-right {
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
