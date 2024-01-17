@@ -195,8 +195,8 @@ h1 {
   justify-content: space-between;
 }
 .customers ul li .cta-btn img {
-  width: 50px;
-  height: 50px;
+  width: 24px;
+  height: 24px;
   padding: 1em;
   background: var(--secondary-color);
   border-radius: 0.3em;
@@ -213,6 +213,6 @@ h1 {
      object-fit: cover;
   border-radius: 50%;
 }
-.customers ul .user-info {
+.customers ul .user-info strong {
   display: block;
 }/*# sourceMappingURL=main.css.map */
