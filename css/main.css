@@ -62,4 +62,6 @@ header.primary {
 .user img {
   width: 30px;
   height: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=main.css.map */
