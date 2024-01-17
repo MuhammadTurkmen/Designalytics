@@ -100,4 +100,7 @@ aside {
   text-align: right;
   transition: transform 0.6s;
   transform: translateX(0);
+}
+aside a {
+  color: white;
 }/*# sourceMappingURL=main.css.map */

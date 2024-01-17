@@ -49,4 +49,8 @@ aside {
     text-align: right;
     transition: transform .6s;
     transform: translateX(0);
+
+    a {
+        color: white;
+    }
 }
