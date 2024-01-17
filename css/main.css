@@ -18,4 +18,32 @@ body {
 
 .wrapper {
   margin: 2em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li, p, a {
+  font-size: 1.6rem;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+}
+
+p {
+  font-size: 1.6em;
+}
+
+svg {
+  width: 100%;
+}
+
+.hide-mobil {
+  display: none;
 }/*# sourceMappingURL=main.css.map */
