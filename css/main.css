@@ -137,4 +137,8 @@ aside ul li a {
 }
 .sales h2 {
   font-size: 6.4rem;
+  margin: 0;
+}
+.sales .lable {
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
