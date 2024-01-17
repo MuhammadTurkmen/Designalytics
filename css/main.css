@@ -139,6 +139,8 @@ aside ul li a {
   font-size: 6.4rem;
   margin: 0;
 }
-.sales .lable {
+.sales .label {
   display: flex;
+  align-items: baseline;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */

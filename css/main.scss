@@ -93,7 +93,9 @@ aside {
         margin: 0;
     }
 
-    .lable {
+    .label {
         display: flex;
+        align-items: baseline;
+        text-transform: uppercase;
     }
 }
