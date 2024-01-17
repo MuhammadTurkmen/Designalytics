@@ -103,4 +103,10 @@ aside {
 }
 aside a {
   color: white;
+  font-size: 2.6rem;
+}
+aside img {
+  background-color: white;
+  width: 30px;
+  height: 30px;
 }/*# sourceMappingURL=main.css.map */
