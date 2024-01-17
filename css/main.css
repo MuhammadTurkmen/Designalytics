@@ -14,4 +14,8 @@ body {
   margin: 0;
   background-color: #1F2023;
   font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+  margin: 2em;
 }/*# sourceMappingURL=main.css.map */
