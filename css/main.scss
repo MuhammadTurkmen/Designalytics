@@ -342,7 +342,9 @@ h1 {
 
     main {
         grid-template-columns: 1.2fr 2fr;
+        grid-template-rows: repeat(3, auto);
         flex-grow: 2;
+        gap: 3em;
     }
     
 }
