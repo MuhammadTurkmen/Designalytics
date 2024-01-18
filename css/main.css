@@ -267,4 +267,8 @@ h1 {
   aside nav ul li img {
     display: block !important;
   }
+  /* Main Area */
+  main {
+    display: grid;
+  }
 }/*# sourceMappingURL=main.css.map */
