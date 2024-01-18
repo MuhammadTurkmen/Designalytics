@@ -292,5 +292,6 @@ h1 {
   }
   .col2 {
     display: flex;
+    gap: 2em;
   }
 }/*# sourceMappingURL=main.css.map */
