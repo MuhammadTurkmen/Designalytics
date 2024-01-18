@@ -243,4 +243,7 @@ h1 {
     background-color: var(--secondary-color);
     border-radius: 1em;
   }
+  aside a {
+    font-size: 1.8rem;
+  }
 }/*# sourceMappingURL=main.css.map */
