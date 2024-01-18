@@ -322,5 +322,6 @@ h1 {
     background-color: var(--inner-panel-color);
     padding: 0.2em;
     color: white;
+    border-radius: 0.3em;
   }
 }/*# sourceMappingURL=main.css.map */
