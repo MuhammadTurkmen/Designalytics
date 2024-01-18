@@ -280,5 +280,6 @@ h1 {
   .extra-stats ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 2em;
   }
 }/*# sourceMappingURL=main.css.map */
