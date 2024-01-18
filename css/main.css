@@ -224,5 +224,6 @@ h1 {
   }
   .header-right nav {
     display: flex;
+    align-items: center;
   }
 }/*# sourceMappingURL=main.css.map */
