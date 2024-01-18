@@ -300,4 +300,16 @@ h1 {
     min-width: 250px;
     padding: 2em;
   }
+  aside nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+  aside nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+  }
 }/*# sourceMappingURL=main.css.map */
