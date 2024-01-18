@@ -312,4 +312,7 @@ h1 {
     justify-content: space-around;
     height: 100%;
   }
+  aside .premium {
+    display: block;
+  }
 }/*# sourceMappingURL=main.css.map */
