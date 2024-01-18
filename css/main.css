@@ -355,5 +355,6 @@ h1 {
   .extra-stats ul {
     display: flex;
     align-items: center;
+    gap: 5em;
   }
 }/*# sourceMappingURL=main.css.map */
