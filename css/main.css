@@ -239,5 +239,8 @@ h1 {
     margin-top: 2em;
     transform: unset;
     text-align: inherit;
+    transition: unset;
+    background-color: var(--secondary-color);
+    border-radius: 1em;
   }
 }/*# sourceMappingURL=main.css.map */
