@@ -232,5 +232,6 @@ h1 {
   }
   aside {
     position: inherit;
+    height: auto;
   }
 }/*# sourceMappingURL=main.css.map */
