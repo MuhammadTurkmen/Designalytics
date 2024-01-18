@@ -251,7 +251,10 @@ h1 {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(3, auto);
         gap: 3em;
+    }
 
+    .earnings, .customers {
+        grid-column: 1/3;
     }
 
 }
