@@ -252,5 +252,9 @@ h1 {
   }
   aside nav ul {
     margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    display: flex;
+    justify-content: space-around;
   }
 }/*# sourceMappingURL=main.css.map */
