@@ -352,4 +352,8 @@ h1 {
     justify-content: center;
     border: 1px solid var(--border-color);
   }
+  .extra-stats ul {
+    display: flex;
+    align-items: center;
+  }
 }/*# sourceMappingURL=main.css.map */

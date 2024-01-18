@@ -353,6 +353,11 @@ h1 {
         justify-content: center;
         border: 1px solid var(--border-color);
 
+        ul {
+            display: flex;
+            align-items: center;
+        }
+
     }
     
 }
