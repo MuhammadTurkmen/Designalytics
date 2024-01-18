@@ -336,4 +336,7 @@ h1 {
   aside .premium header img {
     width: 20px;
   }
+  aside .premium p {
+    line-height: 150%;
+  }
 }/*# sourceMappingURL=main.css.map */
