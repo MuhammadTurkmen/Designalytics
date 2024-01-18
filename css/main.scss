@@ -213,9 +213,7 @@ h1 {
         border-radius: 1em;
 
 
-        a {
-            font-size: 1.8rem;
-        }
+       
 
         img {
             background: unset;
@@ -235,6 +233,10 @@ h1 {
                 display: flex;
                 align-items: center;
                 gap: .5em;
+
+                a {
+                    font-size: 1.8rem;
+                }
 
                 img {
                     display: block !important;
