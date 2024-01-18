@@ -309,9 +309,13 @@ h1 {
         .premium {
             display: block;
             background-color: var(--inner-panel-color);
-            padding: .2em;
+            padding: 2em;
             color: white;
             border-radius: .3em;
+
+            header {
+                display: flex;
+            }
         }
     }
     

@@ -320,8 +320,11 @@ h1 {
   aside .premium {
     display: block;
     background-color: var(--inner-panel-color);
-    padding: 0.2em;
+    padding: 2em;
     color: white;
     border-radius: 0.3em;
+  }
+  aside .premium header {
+    display: flex;
   }
 }/*# sourceMappingURL=main.css.map */
