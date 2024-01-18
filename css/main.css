@@ -222,6 +222,7 @@ h1 {
   .signout {
     display: block;
     padding: 0.7em;
+    background-color: var(--secondary-color);
   }
   .header-right nav {
     display: flex;
