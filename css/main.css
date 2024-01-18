@@ -221,9 +221,11 @@ h1 {
 @media only screen and (min-width: 620px) {
   .signout {
     display: block;
+    padding: 0.7em;
   }
   .header-right nav {
     display: flex;
     align-items: center;
+    gap: 2em;
   }
 }/*# sourceMappingURL=main.css.map */
