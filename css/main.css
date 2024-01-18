@@ -283,4 +283,9 @@ h1 {
     gap: 2em;
   }
 }
-/* Desktop *//*# sourceMappingURL=main.css.map */
+/* Desktop */
+@media only screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 1200px;
+  }
+}/*# sourceMappingURL=main.css.map */
