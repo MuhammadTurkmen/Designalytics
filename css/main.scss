@@ -233,6 +233,10 @@ h1 {
             li {
                 margin-bottom: 0;
                 display: flex;
+
+                img {
+                    display: block !important;
+                }
             }
         }
     }
