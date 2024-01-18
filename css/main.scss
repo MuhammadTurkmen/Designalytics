@@ -293,10 +293,9 @@ h1 {
             height: 100%;
 
             ul {
-                display: flex;
                 flex-direction: column;
                 justify-content: space-around;
-                height: 100%;
+                gap: 2em;
             }
         }
 
