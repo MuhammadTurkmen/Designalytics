@@ -339,4 +339,8 @@ h1 {
   aside .premium p {
     line-height: 150%;
   }
+  /* Main */
+  main {
+    flex-grow: 2;
+  }
 }/*# sourceMappingURL=main.css.map */

@@ -306,6 +306,7 @@ h1 {
             }
         }
 
+
         .premium {
             display: block;
             background-color: var(--inner-panel-color);
@@ -333,6 +334,14 @@ h1 {
                 line-height: 150%;
             }
         }
+
+    }
+    
+
+    /* Main */ 
+
+    main {
+        flex-grow: 2;
     }
     
 }
