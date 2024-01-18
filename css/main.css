@@ -290,4 +290,7 @@ h1 {
     margin: 3em auto;
     padding: 0 2em;
   }
+  .col2 {
+    display: flex;
+  }
 }/*# sourceMappingURL=main.css.map */
