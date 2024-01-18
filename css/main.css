@@ -250,4 +250,7 @@ h1 {
     background: unset;
     cursor: unset;
   }
+  aside nav ul {
+    margin-top: 0;
+  }
 }/*# sourceMappingURL=main.css.map */
