@@ -294,4 +294,8 @@ h1 {
     display: flex;
     gap: 2em;
   }
+  aside {
+    width: 10%;
+    flex-grow: 3;
+  }
 }/*# sourceMappingURL=main.css.map */
