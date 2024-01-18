@@ -333,4 +333,7 @@ h1 {
     font-size: 1.6rem;
     margin: 0;
   }
+  aside .premium header img {
+    width: 20px;
+  }
 }/*# sourceMappingURL=main.css.map */
