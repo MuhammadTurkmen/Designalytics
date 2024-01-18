@@ -327,5 +327,6 @@ h1 {
   aside .premium header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 }/*# sourceMappingURL=main.css.map */
