@@ -341,6 +341,7 @@ h1 {
   }
   /* Main */
   main {
+    grid-template-columns: 1.2fr 2fr;
     flex-grow: 2;
   }
 }/*# sourceMappingURL=main.css.map */
