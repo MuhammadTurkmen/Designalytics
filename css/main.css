@@ -346,4 +346,7 @@ h1 {
     flex-grow: 2;
     gap: 3em;
   }
+  .extra-stats {
+    padding: 3em;
+  }
 }/*# sourceMappingURL=main.css.map */
