@@ -319,5 +319,6 @@ h1 {
   }
   aside .premium {
     display: block;
+    background-color: var(--inner-panel-color);
   }
 }/*# sourceMappingURL=main.css.map */
