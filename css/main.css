@@ -246,4 +246,8 @@ h1 {
   aside a {
     font-size: 1.8rem;
   }
+  aside img {
+    background: unset;
+    cursor: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
