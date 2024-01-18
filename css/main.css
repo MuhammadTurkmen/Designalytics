@@ -256,5 +256,10 @@ h1 {
     margin-left: 0;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 0;
+  }
+  aside nav ul li {
+    margin-bottom: 0;
+    display: flex;
   }
 }/*# sourceMappingURL=main.css.map */
