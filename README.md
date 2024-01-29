@@ -13,5 +13,8 @@
 ## Desktop
 ![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/bd32fa5c-9aa7-48e2-8cd5-035911f34e4c)
 
+![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/918f1bc5-40cd-407c-afbb-dd9033522456)
+
+
 
 
