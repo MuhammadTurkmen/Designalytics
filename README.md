@@ -10,4 +10,8 @@
 
 ![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/d588c9a2-9fb5-40a2-af67-2c1cf6688e7f)
 
+## Desktop
+![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/bd32fa5c-9aa7-48e2-8cd5-035911f34e4c)
+
+
 
