@@ -8,3 +8,6 @@
 ## Tablet 
 ![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/d7e60509-b4fb-40fe-943c-f78005d9c5e1)
 
+![image](https://github.com/MuhammadTurkmen/Designalytics/assets/142389953/d588c9a2-9fb5-40a2-af67-2c1cf6688e7f)
+
+
